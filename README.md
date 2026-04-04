@@ -10,4 +10,4 @@ Installation：https://github.com/canoe-Z/PETDet
 
 ShipRSImageNet权重：https://pan.quark.cn/s/2f25b2a63fd4
 
-HRSC2016权重：https://pan.quark.cn/s/2f25b2a63fd4
+HRSC2016权重：https://pan.quark.cn/s/96bb90061c09
